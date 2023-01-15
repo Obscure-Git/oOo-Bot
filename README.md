@@ -24,7 +24,7 @@ oOo bot is updated and mainainted on a weekly basis. In addition to that we are 
 
 oOo currently offers:
 
-• ✉️ Active Support regarding the bot in our [support server](https://discord.gg/s2khsve).
+• ✉️ Active Support regarding the bot in our [support server](https://discord.gg/B9TK7nqRE4).
 
 • ⚙️ Guild Configuration (custom prefixes).
 
